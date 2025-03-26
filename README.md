@@ -28,7 +28,11 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,sass,react,nextjs,reactnative,nodejs,express,redux,graphql,tailwind,materialui,styledcomponents,antdesign,git,github,webpack,babel,jest,cypress,docker,aws,androidstudio,xcode,jenkins" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,sass,react,nextjs,reactnative,nodejs,express,redux,graphql,tailwind,materialui,styledcomponents,antdesign,git,github,webpack,babel,jest,cypress,docker,aws,androidstudio,xcode,jenkins,gitlab" />
+</p>
+
+<p align="center">
+  <em>Full Skill Set:</em> TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS/SCSS, React, Next.js, React Native, Node.js, Express.js, Redux Toolkit, GraphQL, TailwindCSS, Material-UI, Styled-Components, Shadcn, Ant Design, FlowBite, Git, GitHub, Webpack, Babel, Jest, React Testing Library, Cypress, XCode, Android Studio, Jenkins, GitLab CI, Docker, AWS (S3, EC2, Lambda)
 </p>
 
 ---
@@ -43,10 +47,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oxygene1&show_icons=true&locale=en&layout=compact&theme=dracula" alt="IbrahimAbdulganiyu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oxygene1&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Oxygene1" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oxygene1&show_icons=true&locale=en&theme=dracula" alt="IbrahimAbdulganiyu" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxygene1&show_icons=true&locale=en&theme=dracula" alt="Oxygene1" />
 </p>
 
 ---
