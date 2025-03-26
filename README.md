@@ -48,6 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oxygene1&show_icons=true&locale=en&theme=dracula" alt="IbrahimAbdulganiyu" />
 </p>
+
 ---
 
 ### 📬 Let’s Connect!
@@ -55,6 +56,12 @@
   <a href="mailto:abdulganiyutechna@gmail.com"><img src="https://img.shields.io/badge/Email-abdulganiyutechna@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://twitter.com/ibrahimxtech"><img src="https://img.shields.io/badge/Twitter-@ibrahimxtech-1DA1F2?style=for-the-badge&logo=twitter" /></a>
   <a href="https://linkedin.com/in/ibrahimxtech"><img src="https://img.shields.io/badge/LinkedIn-ibrahimxtech-0077B5?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/14S82WYFD6uqfmlzMPedhHJl6zJzrfynh/edit?usp=sharing&ouid=109027388021191556018&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/Preview%20My%20Resume-2ecc71?style=for-the-badge&logo=googledocs" alt="Preview My Resume" />
+  </a>
 </p>
 
 ---
